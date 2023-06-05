@@ -1,2 +1,5 @@
 # csharp_tip
-C# 개발시 사용할 Tip 모음집
+
+## List
+### List내 항목 삭제 최적화
+https://forum.dotnetdev.kr/t/c/6256/2
